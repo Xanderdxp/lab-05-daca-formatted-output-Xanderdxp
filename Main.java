@@ -74,7 +74,7 @@ public class Main
 		//N/A
 		
 		//OUTPUT SECTION
-		System.out.println("╔══════════════════════════════════════════════════════════════════════╗");
+		System.out.print("╔══════════════════════════════════════════════════════════════════════╗");
 		System.out.println("║           " + TITLE_USA + "                                   ║");
 		System.out.println("║                               " + TITLE_EAC + "          ║");
 		
